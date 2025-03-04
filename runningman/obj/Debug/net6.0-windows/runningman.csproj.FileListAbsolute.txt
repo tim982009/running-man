@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\runningman\obj\Debug\net6.0-windows\runningman.Form1.resources
+C:\Users\User\Desktop\runningman\obj\Debug\net6.0-windows\runningman.Properties.Resources.resources
+C:\Users\User\Desktop\runningman\obj\Debug\net6.0-windows\runningman.csproj.GenerateResource.cache
+C:\Users\User\Desktop\runningman\obj\Debug\net6.0-windows\runningman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\runningman\obj\Debug\net6.0-windows\runningman.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\runningman\obj\Debug\net6.0-windows\runningman.AssemblyInfo.cs
+C:\Users\User\Desktop\runningman\obj\Debug\net6.0-windows\runningman.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\runningman\bin\Debug\net6.0-windows\runningman.exe
+C:\Users\User\Desktop\runningman\bin\Debug\net6.0-windows\runningman.deps.json
+C:\Users\User\Desktop\runningman\bin\Debug\net6.0-windows\runningman.runtimeconfig.json
+C:\Users\User\Desktop\runningman\bin\Debug\net6.0-windows\runningman.dll
+C:\Users\User\Desktop\runningman\bin\Debug\net6.0-windows\runningman.pdb
+C:\Users\User\Desktop\runningman\obj\Debug\net6.0-windows\runningman.dll
+C:\Users\User\Desktop\runningman\obj\Debug\net6.0-windows\refint\runningman.dll
+C:\Users\User\Desktop\runningman\obj\Debug\net6.0-windows\runningman.pdb
+C:\Users\User\Desktop\runningman\obj\Debug\net6.0-windows\runningman.genruntimeconfig.cache
+C:\Users\User\Desktop\runningman\obj\Debug\net6.0-windows\ref\runningman.dll
